@@ -8,6 +8,8 @@
 # But thats not all !!
   we are also a community with our hackathons, devfests and varios physical and online social events where you can meet intresting personalities just like yourself
   !!!
+# Who Can Join ?
+  Anyone one with genuine interest and urge to learn about BlockChain and its application !! You can be a student or a devoloper or an entrepreneur or anyone else for thr matter !!
 # How to Join GDBC ?
-  For now the process is still not decided upon , work is in progress . But we are in dire need of good and responsible devolopers and volunteers to take the group forward for enquiries just mail any of the core group members or fill out the form in the link.
+  For now the process is still not decided upon , work is in progress . But we are in dire need of good and responsible devolopers and volunteers to take the group forward , for enquiries just mail your cv at admin@gdbc.social <br> or fill out the form in the link.<br>
   link to join group as Volunteer -->> https://gdbc.typeform.com/to/xodLlJP1
