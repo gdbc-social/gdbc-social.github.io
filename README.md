@@ -1,15 +1,30 @@
-# gdbc-social.github.io
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# What is GDBC ?<br>
-  GDBC stands for Global Decentralised Blockchain Commuinity.<br>
-  <br>
-# Why we founded GDBC ?<br>
-  We created GDBC for Blockchain enthusiast, a platform where devolopers as well and students come together to change the world. GDBC is also a great place for anyone who wants to get started in blockchain as we will provide elaborate courses and tutorials for beginners as well as seasoned devolopers ! The courses will be accompanied by a certificate of completion . Various Scholarships as well as prizes will be awarded to meritoriuos students. 
-# But thats not all !!
-  we are also a community with our hackathons, devfests and varios physical and online social events where you can meet intresting personalities just like yourself
-  !!!
-# Who Can Join ?
-  Anyone one with genuine interest and urge to learn about BlockChain and its application !! You can be a student or a devoloper or an entrepreneur or anyone else for thr matter !!
-# How to Join GDBC ?
-  For now the process is still not decided upon , work is in progress . But we are in dire need of good and responsible devolopers and volunteers to take the group forward , for enquiries just mail your cv at admin@gdbc.social <br> or fill out the form in the link.<br>
-  link to join group as Volunteer -->> https://gdbc.typeform.com/to/xodLlJP1
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
