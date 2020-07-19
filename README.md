@@ -1,5 +1,5 @@
 # gdbc-social.github.io
-
+![Alt text](GDBC-transparent.png?raw=true "Title")
 # What is GDBC ?<br>
   GDBC stands for Global Decentralised Blockchain Commuinity.<br>
   <br>
