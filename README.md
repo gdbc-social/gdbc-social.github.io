@@ -1,15 +1,12 @@
-# gdbc-social.github.io
-![Alt text](GDBC-transparent.png?raw=true "Title")
-# What is GDBC ?<br>
-  GDBC stands for Global Decentralised Blockchain Commuinity.<br>
-  <br>
-# Why we founded GDBC ?<br>
-  We created GDBC for Blockchain enthusiast, a platform where devolopers as well and students come together to change the world. GDBC is also a great place for anyone who wants to get started in blockchain as we will provide elaborate courses and tutorials for beginners as well as seasoned devolopers ! The courses will be accompanied by a certificate of completion . Various Scholarships as well as prizes will be awarded to meritoriuos students. 
-# But thats not all !!
-  we are also a community with our hackathons, devfests and varios physical and online social events where you can meet intresting personalities just like yourself
-  !!!
-# Who Can Join ?
-  Anyone one with genuine interest and urge to learn about BlockChain and its application !! You can be a student or a devoloper or an entrepreneur or anyone else for thr matter !!
-# How to Join GDBC ?
-  For now the process is still not decided upon , work is in progress . But we are in dire need of good and responsible devolopers and volunteers to take the group forward , for enquiries just mail your cv at admin@gdbc.social <br> or fill out the form in the link.<br>
-  link to join group as Volunteer -->> https://gdbc.typeform.com/to/xodLlJP1
+# April
+
+A landing page template.
+
+* [Getting started](#getting-started)
+
+## Getting started
+* First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
+* Next, use your command line to enter your project directory.
+* This template comes with a ready-to-use package file called `package-sample.json`. You just need to rename it to `package.json`, then run `npm install` to install all of the dependencies into your project.
+
+You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
